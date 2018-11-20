@@ -1,3 +1,11 @@
 /build
 /config.gypi
 /mason_packages
+
+/.buckd
+/buck-out
+.buckconfig.d
+.buckconfig.local
+/buckaroo
+BUCKAROO_DEPS
+buckaroo_macros.bzl
